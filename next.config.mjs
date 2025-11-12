@@ -1,12 +1,10 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === 'production';
-
 const nextConfig = {
-  output: 'export',
-  basePath: isProd ? '/sorry-site' : '',
-  assetPrefix: isProd ? '/sorry-site/' : '',
-  images: { unoptimized: true }, // Required for static export
-  trailingSlash: true, // Ensures correct static routing
+  output: 'export',               // tells Next.js to create static files
+  distDir: 'docs',                // output build to docs/ folder for GitHub Pages
+  images: { unoptimized: true },  // disable image optimization for static hosting
+  basePath: '/sorry-site',        // your repository name (IMPORTANT)
+  assetPrefix: '/sorry-site/',    // ensures assets load correctly
 };
 
 export default nextConfig;
