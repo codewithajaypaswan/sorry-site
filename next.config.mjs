@@ -3,8 +3,8 @@ const nextConfig = {
   output: 'export',
   distDir: 'docs',
   images: { unoptimized: true },
-  basePath: '', // no subpath for local testing
-  assetPrefix: './', // relative paths fix local & GitHub Pages 404s
+  basePath: '/sorry-site',
+  assetPrefix: '/sorry-site/',
   trailingSlash: true,
 };
 
