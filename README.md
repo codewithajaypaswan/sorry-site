@@ -19,17 +19,7 @@ You can customize it with your own letter, photos, and even add a background son
 - Tailwind CSS  
 - Framer Motion (for smooth animations)  
 
----
-
-## 👋 About Me
-
-Hey! I'm **Anuj**, a web developer and student who loves building unique websites like this to help people express feelings online.
-
-Find me here:  
-- Instagram: [@anujbuilds](https://instagram.com/anujbuilds)  
-- YouTube: [@anujbuilds](https://youtube.com/anujbuilds)  
-- Twitter: [@anujbuilds](https://twitter.com/anujbuilds)  
-- LinkedIn: [anujchaudhary549](https://linkedin.com/in/anujchaudhary549)  
+--\
 
 ---
 
@@ -43,14 +33,10 @@ Thank you for checking out this project! If you like it, please ⭐ star the rep
 
 ---
 
-_Made with 💖 by Anuj_
 
 ---
 
 ## ⚠️ License & Usage
 
 ### Free Code
-- This free version is strictly for **personal use only**.  
-- You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
-- Using this free code publicly is **prohibited**.
-- Any violation will be considered **copyright infringement**, and I reserve the right to report it.
+
